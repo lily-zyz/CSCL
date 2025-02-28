@@ -1,0 +1,16 @@
+{
+    "patch_embedding_dim": 512,
+    "precision": "bfloat16",
+    "wsi_encoder": "abmil",
+    "activation": "softmax",
+    "wsi_encoder_hidden_dim": 512,
+    "n_heads": 4,
+    "add_stain_encoding": false,
+    "MODALITIES": [
+        "HE",
+        "HER2",
+        "PGR",
+        "KI67",
+        "ER"
+    ]
+}
