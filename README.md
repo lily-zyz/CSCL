@@ -3,7 +3,7 @@
 # Cross-Stain Contrastive Learning for Paired Immunohistochemistry and Histopathology Slide Representation ( CSCL)
 > We provide bash script for training and inference on Our dataset
 > Before running the code, ensure you have downloaded these dataset and preprocess following [CONCH](https://github.com/mahmoodlab/CONCH)
-> Our dataset can be downloaded from <a href=https://www.anonymz.com/?https://huggingface.co/datasets/zyzzyzyz/HER2/tree/main>You text</a>
+> Our dataset can be downloaded from <a href=https://www.anonymz.com/?https://huggingface.co/datasets/zyzzyzyz/HER2/tree/main>HER2</a>
 
 The list of useful parameters is as follows:
 * `local_dir`: this is the path where you put your '.pt' files for patch features.
